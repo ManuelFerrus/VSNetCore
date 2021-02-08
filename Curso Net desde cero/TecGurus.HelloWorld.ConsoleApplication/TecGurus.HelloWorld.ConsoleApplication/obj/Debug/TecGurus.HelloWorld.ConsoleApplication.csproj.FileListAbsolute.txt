@@ -1,0 +1,7 @@
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\TecGurus.HelloWorld.ConsoleApplication\TecGurus.HelloWorld.ConsoleApplication\bin\Debug\TecGurus.HelloWorld.ConsoleApplication.exe.config
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\TecGurus.HelloWorld.ConsoleApplication\TecGurus.HelloWorld.ConsoleApplication\bin\Debug\TecGurus.HelloWorld.ConsoleApplication.exe
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\TecGurus.HelloWorld.ConsoleApplication\TecGurus.HelloWorld.ConsoleApplication\bin\Debug\TecGurus.HelloWorld.ConsoleApplication.pdb
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\TecGurus.HelloWorld.ConsoleApplication\TecGurus.HelloWorld.ConsoleApplication\obj\Debug\TecGurus.HelloWorld.ConsoleApplication.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\TecGurus.HelloWorld.ConsoleApplication\TecGurus.HelloWorld.ConsoleApplication\obj\Debug\TecGurus.HelloWorld.ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\TecGurus.HelloWorld.ConsoleApplication\TecGurus.HelloWorld.ConsoleApplication\obj\Debug\TecGurus.HelloWorld.ConsoleApplication.exe
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\TecGurus.HelloWorld.ConsoleApplication\TecGurus.HelloWorld.ConsoleApplication\obj\Debug\TecGurus.HelloWorld.ConsoleApplication.pdb
