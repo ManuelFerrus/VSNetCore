@@ -1,0 +1,7 @@
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\Profe\Tecgurus.ThreeLayers.ExampleApp\Tecgurus.ThreeLayers.ExampleApp.Tools\bin\Debug\Tecgurus.ThreeLayers.ExampleApp.Tools.dll
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\Profe\Tecgurus.ThreeLayers.ExampleApp\Tecgurus.ThreeLayers.ExampleApp.Tools\bin\Debug\Tecgurus.ThreeLayers.ExampleApp.Tools.pdb
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\Profe\Tecgurus.ThreeLayers.ExampleApp\Tecgurus.ThreeLayers.ExampleApp.Tools\obj\Debug\Tecgurus.ThreeLayers.ExampleApp.Tools.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\Profe\Tecgurus.ThreeLayers.ExampleApp\Tecgurus.ThreeLayers.ExampleApp.Tools\obj\Debug\Tecgurus.ThreeLayers.ExampleApp.Tools.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\Profe\Tecgurus.ThreeLayers.ExampleApp\Tecgurus.ThreeLayers.ExampleApp.Tools\obj\Debug\Tecgurus.ThreeLayers.ExampleApp.Tools.dll
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\Profe\Tecgurus.ThreeLayers.ExampleApp\Tecgurus.ThreeLayers.ExampleApp.Tools\obj\Debug\Tecgurus.ThreeLayers.ExampleApp.Tools.pdb
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\Profe\Tecgurus.ThreeLayers.ExampleApp\Tecgurus.ThreeLayers.ExampleApp.Tools\bin\Debug\Tecgurus.ThreeLayers.ExampleApp.Tools.dll.config

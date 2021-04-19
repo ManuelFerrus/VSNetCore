@@ -1,0 +1,137 @@
+[
+  {
+    "IdBook": 1,
+    "NameBook": "NAME BOOK",
+    "DatePublishBook": "2021-02-12T00:00:00",
+    "NumberPages": 50,
+    "SalePrice": 5555.66,
+    "PurchasePrice": 60.0,
+    "IsAvaible": true
+  },
+  {
+    "IdBook": 2,
+    "NameBook": "NAME BOOK TWO",
+    "DatePublishBook": "2021-02-12T00:00:00",
+    "NumberPages": 50,
+    "SalePrice": 5555.66,
+    "PurchasePrice": 60.0,
+    "IsAvaible": true
+  },
+  {
+    "IdBook": 4,
+    "NameBook": "NAME BOOK FOUR",
+    "DatePublishBook": "2021-02-12T00:00:00",
+    "NumberPages": 50,
+    "SalePrice": 5555.66,
+    "PurchasePrice": 60.0,
+    "IsAvaible": true
+  },
+  {
+    "IdBook": 5,
+    "NameBook": "Libro N°1",
+    "DatePublishBook": "2021-02-20T00:00:00",
+    "NumberPages": 345,
+    "SalePrice": 80.15,
+    "PurchasePrice": 60.0,
+    "IsAvaible": false
+  },
+  {
+    "IdBook": 6,
+    "NameBook": "Libro N°2",
+    "DatePublishBook": "2021-02-20T00:00:00",
+    "NumberPages": 345,
+    "SalePrice": 91.77,
+    "PurchasePrice": 60.0,
+    "IsAvaible": true
+  },
+  {
+    "IdBook": 7,
+    "NameBook": "Libro N°3",
+    "DatePublishBook": "2021-02-20T00:00:00",
+    "NumberPages": 345,
+    "SalePrice": 84.7,
+    "PurchasePrice": 60.0,
+    "IsAvaible": false
+  },
+  {
+    "IdBook": 8,
+    "NameBook": "Libro N°4",
+    "DatePublishBook": "2021-02-20T00:00:00",
+    "NumberPages": 345,
+    "SalePrice": 84.52,
+    "PurchasePrice": 60.0,
+    "IsAvaible": true
+  },
+  {
+    "IdBook": 9,
+    "NameBook": "Libro N°5",
+    "DatePublishBook": "2021-02-20T00:00:00",
+    "NumberPages": 345,
+    "SalePrice": 70.17,
+    "PurchasePrice": 60.0,
+    "IsAvaible": false
+  },
+  {
+    "IdBook": 10,
+    "NameBook": "Nuevo Libro Ejemplo",
+    "DatePublishBook": "2021-01-05T00:00:00",
+    "NumberPages": 100,
+    "SalePrice": 35.5,
+    "PurchasePrice": 60.0,
+    "IsAvaible": true
+  },
+  {
+    "IdBook": 11,
+    "NameBook": "Libro nuevo otro ejemplo",
+    "DatePublishBook": "2021-02-27T00:00:00",
+    "NumberPages": 56,
+    "SalePrice": 32.68,
+    "PurchasePrice": 60.0,
+    "IsAvaible": true
+  },
+  {
+    "IdBook": 12,
+    "NameBook": "el principito valiente",
+    "DatePublishBook": "1965-12-08T00:00:00",
+    "NumberPages": 20,
+    "SalePrice": 89.0,
+    "PurchasePrice": 150.0,
+    "IsAvaible": true
+  },
+  {
+    "IdBook": 13,
+    "NameBook": "prueba para envio de correo",
+    "DatePublishBook": "2021-03-06T00:00:00",
+    "NumberPages": 8,
+    "SalePrice": 50.0,
+    "PurchasePrice": 450.0,
+    "IsAvaible": true
+  },
+  {
+    "IdBook": 14,
+    "NameBook": "problemas detecteados",
+    "DatePublishBook": "2021-03-06T00:00:00",
+    "NumberPages": 6,
+    "SalePrice": 90.0,
+    "PurchasePrice": 140.0,
+    "IsAvaible": false
+  },
+  {
+    "IdBook": 15,
+    "NameBook": "qwoeiqwoioidasd",
+    "DatePublishBook": "2021-03-06T00:00:00",
+    "NumberPages": 7,
+    "SalePrice": 90.0,
+    "PurchasePrice": 108.0,
+    "IsAvaible": false
+  },
+  {
+    "IdBook": 16,
+    "NameBook": "asdjasdklj",
+    "DatePublishBook": "2021-03-06T00:00:00",
+    "NumberPages": 6,
+    "SalePrice": 76.0,
+    "PurchasePrice": 89.0,
+    "IsAvaible": false
+  }
+]
