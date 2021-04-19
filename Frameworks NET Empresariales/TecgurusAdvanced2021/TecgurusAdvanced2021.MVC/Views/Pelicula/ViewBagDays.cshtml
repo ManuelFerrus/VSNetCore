@@ -1,0 +1,12 @@
+﻿
+@{
+    //ViewBag.Title = "ViewBagDays";
+    var dias = (List<string>)ViewBag.lstDays;
+}
+
+@*<h2>ViewBagDays</h2>*@
+
+@foreach (var item in dias)
+{
+    <p>@item</p>
+}

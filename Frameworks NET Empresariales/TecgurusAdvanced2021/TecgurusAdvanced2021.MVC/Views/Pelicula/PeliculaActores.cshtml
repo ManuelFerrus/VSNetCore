@@ -1,0 +1,24 @@
+﻿@*se le define el modeo con el que trabaja la vista*@
+@model List<TecgurusAdvanced2021.MVC.Models.PeliculaActorModel>
+
+@{
+    ViewBag.Title = "PeliculaActores";
+}
+
+<h1>Pelicula Actores</h1>
+
+@foreach (var item in Model)
+{
+    <h2>Pelicula</h2>
+    <p>@item.Pelicula.Id</p>
+    <p>@item.Pelicula.Titulo</p>
+    <p>@item.Pelicula.Duracion</p>
+    <p>@item.Pelicula.Genero</p>
+
+    <h2>Actor</h2>
+    <p>@item.Actor.Id</p>
+    <p>@item.Actor.Nombre</p>
+    <p>@item.Actor.Edad</p>
+    <p />
+    <br />
+}
