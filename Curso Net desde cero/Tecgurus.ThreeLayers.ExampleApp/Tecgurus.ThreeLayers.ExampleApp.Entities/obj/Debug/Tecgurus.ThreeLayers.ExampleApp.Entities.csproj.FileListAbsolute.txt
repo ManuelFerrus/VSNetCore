@@ -1,0 +1,5 @@
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\Tecgurus.ThreeLayers.ExampleApp\Tecgurus.ThreeLayers.ExampleApp.Entities\bin\Debug\Tecgurus.ThreeLayers.ExampleApp.Entities.dll
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\Tecgurus.ThreeLayers.ExampleApp\Tecgurus.ThreeLayers.ExampleApp.Entities\bin\Debug\Tecgurus.ThreeLayers.ExampleApp.Entities.pdb
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\Tecgurus.ThreeLayers.ExampleApp\Tecgurus.ThreeLayers.ExampleApp.Entities\obj\Debug\Tecgurus.ThreeLayers.ExampleApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\Tecgurus.ThreeLayers.ExampleApp\Tecgurus.ThreeLayers.ExampleApp.Entities\obj\Debug\Tecgurus.ThreeLayers.ExampleApp.Entities.dll
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\Tecgurus.ThreeLayers.ExampleApp\Tecgurus.ThreeLayers.ExampleApp.Entities\obj\Debug\Tecgurus.ThreeLayers.ExampleApp.Entities.pdb

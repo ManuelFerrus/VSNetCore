@@ -1,0 +1,64 @@
+2021-03-06 10:31:57.9339|INFO|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|Inicializacion de formulario
+2021-03-06 10:35:03.7136|INFO|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|Inicializacion de formulario
+2021-03-06 10:38:16.3560|INFO|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|Inicializacion de formulario
+2021-03-06 10:38:21.8542|ERROR|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|System.ArgumentOutOfRangeException: El valor de '345' no es válido para 'Value'. 'Value' debería estar entre 'Minimum' y 'Maximum'.
+Nombre del parámetro: Value
+   en System.Windows.Forms.NumericUpDown.set_Value(Decimal value)
+   en Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Form1.dataBooksGridView_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) en C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\Profe\Tecgurus.ThreeLayers.ExampleApp\Tecgurus.ThreeLayers.ExampleApp.WindowFormApp\Form1.cs:línea 239
+2021-03-06 10:40:16.3362|INFO|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|Inicializacion de formulario
+2021-03-06 11:17:13.3188|INFO|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|Inicializacion de formulario
+2021-03-06 11:18:22.5362|TRACE|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|se ha enviado el libro: {
+  "IdBook": 0,
+  "NameBook": "el principito valiente",
+  "DatePublishBook": "1965-12-08T11:17:13",
+  "NumberPages": 20,
+  "SalePrice": 89.0,
+  "PurchasePrice": 150.0,
+  "IsAvaible": true
+}
+2021-03-06 11:19:28.0676|INFO|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|Inicializacion de formulario
+2021-03-06 11:20:07.6801|TRACE|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|se ha enviado el libro: {
+  "IdBook": 0,
+  "NameBook": "prueba para envio de correo",
+  "DatePublishBook": "2021-03-06T11:19:28.1434871-07:00",
+  "NumberPages": 8,
+  "SalePrice": 50.0,
+  "PurchasePrice": 450.0,
+  "IsAvaible": true
+}
+2021-03-06 11:24:01.7292|INFO|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|Inicializacion de formulario
+2021-03-06 11:24:24.1939|TRACE|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|se ha enviado el libro: {
+  "IdBook": 0,
+  "NameBook": "problemas detecteados",
+  "DatePublishBook": "2021-03-06T11:24:01.822008-07:00",
+  "NumberPages": 6,
+  "SalePrice": 90.0,
+  "PurchasePrice": 140.0,
+  "IsAvaible": false
+}
+2021-03-06 11:26:55.5048|INFO|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|Inicializacion de formulario
+2021-03-06 11:27:08.1224|TRACE|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|se ha enviado el libro: {
+  "IdBook": 0,
+  "NameBook": "qwoeiqwoioidasd",
+  "DatePublishBook": "2021-03-06T11:26:55.6065916-07:00",
+  "NumberPages": 7,
+  "SalePrice": 90.0,
+  "PurchasePrice": 108.0,
+  "IsAvaible": false
+}
+2021-03-06 11:43:08.4427|INFO|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|Inicializacion de formulario
+2021-03-06 11:43:25.0853|TRACE|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|se ha enviado el libro: {
+  "IdBook": 0,
+  "NameBook": "asdjasdklj",
+  "DatePublishBook": "2021-03-06T11:43:08.5225543-07:00",
+  "NumberPages": 6,
+  "SalePrice": 76.0,
+  "PurchasePrice": 89.0,
+  "IsAvaible": false
+}
+2021-03-06 12:00:05.7244|INFO|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|Inicializacion de formulario
+2021-03-06 12:17:04.2070|INFO|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|Inicializacion de formulario
+2021-03-06 12:18:16.0230|INFO|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|Inicializacion de formulario
+2021-03-06 12:19:56.0748|INFO|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|Inicializacion de formulario
+2021-03-06 12:28:31.8574|INFO|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|Inicializacion de formulario
+2021-03-06 13:00:58.4052|INFO|Tecgurus.ThreeLayers.ExampleApp.WindowFormApp.Logger|Inicializacion de formulario

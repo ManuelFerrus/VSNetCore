@@ -1,0 +1,5 @@
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\UltimaClase\Reference\Tecgurus.ThreeLayers\Tecgurus.ThreeLayers.Ent\bin\Debug\Tecgurus.ThreeLayers.Ent.dll
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\UltimaClase\Reference\Tecgurus.ThreeLayers\Tecgurus.ThreeLayers.Ent\bin\Debug\Tecgurus.ThreeLayers.Ent.pdb
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\UltimaClase\Reference\Tecgurus.ThreeLayers\Tecgurus.ThreeLayers.Ent\obj\Debug\Tecgurus.ThreeLayers.Ent.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\UltimaClase\Reference\Tecgurus.ThreeLayers\Tecgurus.ThreeLayers.Ent\obj\Debug\Tecgurus.ThreeLayers.Ent.dll
+C:\Users\usuario\Documents\Estudios\VSNetCore\Curso Net desde cero\UltimaClase\Reference\Tecgurus.ThreeLayers\Tecgurus.ThreeLayers.Ent\obj\Debug\Tecgurus.ThreeLayers.Ent.pdb
