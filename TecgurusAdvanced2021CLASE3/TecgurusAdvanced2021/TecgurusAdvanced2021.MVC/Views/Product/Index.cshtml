@@ -1,0 +1,118 @@
+﻿@*@model ProductViewModel*@
+
+@*@model List<TecGurusAdvanced.Entities.Product>*@
+@*@model List<TecGurusAdvanced.Model.ProductModel>*@
+
+@*una vez ya creada la referencia en el web.config, se puede limitar*@
+@*@model List<ProductModel>*@
+@*Se cambia porque en la vista parcial tmb se cambio su valor de retorno*@
+@model ProductViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+@*Se muestra la informacion como lista*@
+@*<h2>Productos</h2>
+    <hr />
+    <br />
+    @foreach (var product in Model)
+    {
+        <h3>@product.ProductID</h3>
+        <h3>@product.ProductName</h3>
+        <hr />
+    }*@
+@*Titulo normal*@
+@*<h2>Productos</h2>*@
+@*Se implementa para que sea multilenguaje*@
+@*<h2>@Constants.Products</h2>*@
+@*Se cambian todas las demas*@
+@*<table class="table table-bordered table-condensed table-hover">
+    <thead>
+        <tr>
+            <th>*@
+@*Product Id*@
+@*@Constants.ProductId*@
+@*</th>
+    <th>*@
+@*Product Name*@
+@*@Constants.ProductName
+    </th>
+    <th>*@
+@*Unit Price*@
+@*@Constants.UnitPrice
+    </th>
+    <th>*@
+@*Category*@
+@*@Constants.Category
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>
+                    <h3>@product.ProductID</h3>
+                </td>
+                <td>
+                    <h3>@product.ProductName</h3>
+                </td>
+                <td>
+                    <h3>@product.UnitPrice</h3>
+                </td>
+                <td>*@
+@*<h3>@product.CategoryID</h3>*@
+@*Implementamos LazyLoading, no es recomendable, porque cada consumo es una consulta a la BD*@
+@*esto se permite ya que al usar ADO, se respeta las claves foraneas y las relaciones entre tablas*@
+@*<h3>@product.Category.CategoryName</h3>*@
+@*Se cambia la consulta, por ende, tmb el modelo*@
+@*<h3>@product.CategoryName</h3>
+                    </td>
+                </tr>
+
+            }
+        </tbody>
+        <tfoot>
+
+        </tfoot>
+    </table>*@
+
+@*Se mueve la tabla a la vista parcial*@
+<div class="row">
+    <div class="col-md-10">
+        <h2>@Constants.Products</h2>
+    </div>
+    <br />
+    <div class="col-md-2">
+        <h2>@Html.ActionLink(Constants.New, "Create", null, new { @class = "btn btn-info" })</h2>
+    </div>
+</div>
+
+<hr />
+<br />
+
+@*Accion, controlado, opciones de ajax*@
+@using (Ajax.BeginForm("Ajax_Search", "Product",
+    new AjaxOptions
+    {
+        HttpMethod = "Post",
+        UpdateTargetId = "gridContainer",
+        InsertionMode = InsertionMode.Replace
+    }))
+{
+    <div class="row">
+        <div class="col-md-3">
+            @Html.TextBoxFor(m => m.ProductNameSearch, new {@id="txtProductName", @class = "form-control", @placeholder=Constants.ProductName })
+        </div>
+        <div class="col-md-3">
+            <button type="submit" id="btnSubmit" class="btn btn-info glyphicon glyphicon-search"></button>
+        </div>
+        <div class="col-md-3">
+            @*alerts*@
+        </div>
+    </div>
+    <br />
+    <div id="gridContainer">
+        @Html.Partial("_ProductModelList", Model)
+    </div>
+}

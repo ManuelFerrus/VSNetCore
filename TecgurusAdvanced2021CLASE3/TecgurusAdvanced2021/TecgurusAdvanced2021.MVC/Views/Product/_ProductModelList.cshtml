@@ -1,0 +1,119 @@
+﻿@*Se cambia el valor de retorno*@
+@*@model List<ProductModel>*@
+@*Tambien se tiene que cambiar en el index*@
+@model ProductViewModel
+@{
+    var OnewPageLess = Model.CurrentPage - 1;
+    var OnewPageMore = Model.CurrentPage + 1;
+
+}
+
+<table class="table table-bordered table-condensed table-hover">
+    <thead>
+        <tr>
+            <th>
+                @*Product Id*@
+                @Constants.ProductId
+            </th>
+            <th>
+                @*Product Name*@
+                @Constants.ProductName
+            </th>
+            <th>
+                @*Unit Price*@
+                @Constants.UnitPrice
+            </th>
+            <th>
+                @*Category*@
+                @Constants.Category
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model.Data)
+        {
+            <tr>
+                <td>
+                    <h3>@product.ProductID</h3>
+                </td>
+                <td>
+                    <h3>@product.ProductName</h3>
+                </td>
+                <td>
+                    <h3>@product.UnitPrice</h3>
+                </td>
+                <td>
+                    @*<h3>@product.CategoryID</h3>*@
+                    @*Implementamos LazyLoading, no es recomendable, porque cada consumo es una consulta a la BD
+                        esto se permite ya que al usar ADO, se respeta las claves foraneas y las relaciones entre tablas*@
+                    @*<h3>@product.Category.CategoryName</h3>*@
+                    @*Se cambia la consulta, por ende, tmb el modelo*@
+                    <h3>@product.CategoryName</h3>
+                </td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+
+    </tfoot>
+</table>
+@if (Model.TotalData > 0)
+{
+    <span>
+        <strong>@Model.TotalData</strong>@Constants.RecordsFound
+    </span>
+    <span> &nbsp; | &nbsp; </span>
+}
+else
+{
+    <span>
+        @Constants.NoResults
+    </span>
+    <span> &nbsp; | &nbsp; </span>
+}
+
+@if (Model.CurrentPage > 1)
+{
+    <a class="btn btn-sm btn-default" href="#" onclick="ChangePage(1)"> << </a>
+    <a class="btn btn-sm btn-default" href="#" onclick="ChangePage(@OnewPageLess)"> @Constants.Previous </a>
+}
+else
+{
+    <a class="btn btn-sm btn-default disabled" href="#" onclick="ChangePage(1)"> << </a>
+    <a class="btn btn-sm btn-default disabled" href="#" onclick="ChangePage(@OnewPageLess)"> @Constants.Previous </a>
+}
+
+@if (Model.CurrentPage < Model.NumbreOfPage)
+{
+    <a class="btn btn-sm btn-default" href="#" onclick="ChangePage(@OnewPageMore)"> @Constants.Next </a>
+    <a class="btn btn-sm btn-default" href="#" onclick="ChangePage(@Model.NumbreOfPage)"> >> </a>
+}
+else
+{
+    <a class="btn btn-sm btn-default disabled" href="#" onclick="ChangePage(@OnewPageMore)"> @Constants.Next </a>
+    <a class="btn btn-sm btn-default disabled" href="#" onclick="ChangePage(@Model.NumbreOfPage)"> >> </a>
+}
+
+@if (Model.TotalData > 0)
+{
+    <span> &nbsp; | &nbsp; </span>
+    <span>
+        Pagina <strong> @Model.CurrentPage</strong> de <strong>@Model.NumbreOfPage</strong>
+    </span>
+}
+
+<script>
+    function ChangePage(numberPage) {
+        $.ajax({
+            url:'@Url.Action("ajax_ChangePage")',
+            type: 'POST',
+            data: {
+                "page": numberPage,
+                "productNameSearch": $('#txtProductName').val()
+            },
+            success: function (data) {
+                $("#gridContainer").html(data);
+            }
+        });
+    }
+</script>

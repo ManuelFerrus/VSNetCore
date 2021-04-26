@@ -1,0 +1,18 @@
+﻿@*Estoy especificando con que modelo trabaja esta vista*@
+@model TecgurusAdvanced2021.MVC.Models.PeliculaModel
+
+@{
+ 
+}
+
+@*es un tipo de codigo "hibrido" el cual permite acceder a datos y escribir sentencias de C# dentro de HTML*@
+<h2>Pelicula</h2>
+<hr />
+<br />
+@*Con la palabra reservada Model (M-> mayuscula), accedo a los datos("propiedades") del modelo
+    que se le esta enviando desde el controlador*@
+
+<h3>@Model.Id</h3>
+<h3>@Model.Titulo</h3>
+<h3>@Model.Duracion</h3>
+<h3>@Model.Genero</h3>
