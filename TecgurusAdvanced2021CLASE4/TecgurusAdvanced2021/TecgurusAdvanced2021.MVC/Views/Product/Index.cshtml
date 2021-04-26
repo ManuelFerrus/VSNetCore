@@ -1,0 +1,56 @@
+﻿@model ProductViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="col-md-10">
+        <h2>@Constants.Products</h2>
+    </div>
+    <div class="col-md-2">
+        <h2>@Html.ActionLink(Constants.New, "Create", null, new { @class = "btn btn-info" })</h2>
+    </div>
+</div>
+
+<hr />
+<br />
+
+
+@using (Ajax.BeginForm("Ajax_Search", "Product",
+    new AjaxOptions
+    {
+//metodo por el cual hace la solicitud
+HttpMethod = "Post",
+//esta propiedad se usa para especificar
+//    el ID del elemento DOM para qué indique
+//que parte se actualizará; por ejemplo,
+//si especificamos la identificación de
+//la etiqueta DIV, solo esa parte DIV particular se actualizará.
+UpdateTargetId = "gridContainer",
+//especifica que la devolucion de datos de AjaxSearch
+//van a remplazar a la coleccion pasada
+InsertionMode = InsertionMode.Replace
+    }
+    ))
+{
+    <div class="row">
+        <div class="col-md-3">
+            @Html.TextBoxFor(m => m.ProductNameSearch, new { @id = "txtProductName", @class = "form-control", @placeholder = Constants.ProductName })
+        </div>
+        <div class="col-md-3">
+            <button type="submit" id="btnSubmit" class="btn btn-info glyphicon glyphicon-search"></button>
+        </div>
+        <div class="col-md-3 col-md-offset-3">
+            @*alerts de bootstrap*@
+        </div>
+    </div>
+    <br />
+    <div id="gridContainer">
+        @Html.Partial("_ProductModelList", Model)
+    </div>
+}
+
+
+
+
+

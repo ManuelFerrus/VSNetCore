@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TecgurusAdvanced2021.MVC", "TecgurusAdvanced2021.MVC\TecgurusAdvanced2021.MVC.csproj", "{AC1079D0-CC92-456B-9BC8-6A83B7420369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TecGurusAdvanced.Entities", "TecGurusAdvanced.Entities\TecGurusAdvanced.Entities.csproj", "{D75A7843-AAF6-4B86-8328-5786596AADED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TecGurusAdvanced.Localization", "TecGurusAdvanced.Localization\TecGurusAdvanced.Localization.csproj", "{C762BF59-93D1-4065-8384-E7B768E9CCD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TecGurusAdvanced.Model", "TecGurusAdvanced.Model\TecGurusAdvanced.Model.csproj", "{D4E4DF76-BB2E-484B-BC10-6E2AD74438C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TecGurusAdvanced.Services", "TecGurusAdvanced.Services\TecGurusAdvanced.Services.csproj", "{13AAB7A2-83F5-4BCA-9250-B22AEAB75157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TecGurusAdvanced.Factory", "TecGurusAdvanced.Factory\TecGurusAdvanced.Factory.csproj", "{69514F77-1C16-4CD1-99B2-B6EFB8F67185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC1079D0-CC92-456B-9BC8-6A83B7420369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1079D0-CC92-456B-9BC8-6A83B7420369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1079D0-CC92-456B-9BC8-6A83B7420369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1079D0-CC92-456B-9BC8-6A83B7420369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75A7843-AAF6-4B86-8328-5786596AADED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75A7843-AAF6-4B86-8328-5786596AADED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75A7843-AAF6-4B86-8328-5786596AADED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75A7843-AAF6-4B86-8328-5786596AADED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C762BF59-93D1-4065-8384-E7B768E9CCD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C762BF59-93D1-4065-8384-E7B768E9CCD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C762BF59-93D1-4065-8384-E7B768E9CCD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C762BF59-93D1-4065-8384-E7B768E9CCD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4E4DF76-BB2E-484B-BC10-6E2AD74438C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E4DF76-BB2E-484B-BC10-6E2AD74438C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E4DF76-BB2E-484B-BC10-6E2AD74438C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E4DF76-BB2E-484B-BC10-6E2AD74438C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13AAB7A2-83F5-4BCA-9250-B22AEAB75157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13AAB7A2-83F5-4BCA-9250-B22AEAB75157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13AAB7A2-83F5-4BCA-9250-B22AEAB75157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13AAB7A2-83F5-4BCA-9250-B22AEAB75157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69514F77-1C16-4CD1-99B2-B6EFB8F67185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69514F77-1C16-4CD1-99B2-B6EFB8F67185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69514F77-1C16-4CD1-99B2-B6EFB8F67185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69514F77-1C16-4CD1-99B2-B6EFB8F67185}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5861DD95-D92C-4868-8114-45CA46B6812A}
+	EndGlobalSection
+EndGlobal

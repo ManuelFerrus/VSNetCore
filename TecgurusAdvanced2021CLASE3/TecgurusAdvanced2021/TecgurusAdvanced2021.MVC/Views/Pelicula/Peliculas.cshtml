@@ -1,0 +1,20 @@
+﻿@model List<TecgurusAdvanced2021.MVC.Models.PeliculaModel>
+
+@{
+    ViewBag.Title = "Peliculas";
+}
+
+<h2>Lista de Peliculas</h2>
+<hr />
+<br />
+
+@foreach (var pelicula in Model)
+{
+    <h3>@pelicula.Id</h3>
+    <h3><b> @pelicula.Titulo</b></h3>
+    <h3>@pelicula.Duracion</h3>
+    <h3>@pelicula.Genero</h3>
+    <hr />
+    <br />
+}
+

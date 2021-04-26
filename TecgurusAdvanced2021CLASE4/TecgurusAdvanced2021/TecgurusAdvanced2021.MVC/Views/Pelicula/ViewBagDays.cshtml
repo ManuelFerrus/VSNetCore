@@ -1,0 +1,32 @@
+﻿@model List<TecgurusAdvanced2021.MVC.Models.PeliculaModel>
+@{
+    var dias = (List<string>)ViewBag.Days;
+    var flag = (bool)ViewBag.Flag;
+}
+
+@if (flag)
+{
+    <h2>Dias de la semana</h2>
+
+    foreach (var dia in dias)
+    {
+        <h3>@dia</h3>
+        <br />
+    }
+}
+else
+{
+    <h2>Lista de Peliculas</h2>
+    <hr />
+    <br />
+
+    foreach (var pelicula in Model)
+    {
+        <h3>@pelicula.Id</h3>
+        <h3><b> @pelicula.Titulo</b></h3>
+        <h3>@pelicula.Duracion</h3>
+        <h3>@pelicula.Genero</h3>
+        <hr />
+        <br />
+    }
+}

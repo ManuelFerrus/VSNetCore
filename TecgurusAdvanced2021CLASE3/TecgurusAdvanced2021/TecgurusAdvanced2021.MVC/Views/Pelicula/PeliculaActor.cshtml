@@ -1,0 +1,22 @@
+﻿@model TecgurusAdvanced2021.MVC.Models.PeliculaActorModel
+@{
+    ViewBag.Title = "PeliculaActor";
+}
+
+<h2>@Model.Pelicula.Titulo</h2>
+
+<hr />
+<br />
+<h2>Pelicula</h2>
+<h3>@Model.Pelicula.Id</h3>
+<h3>@Model.Pelicula.Titulo</h3>
+<h3>@Model.Pelicula.Duracion</h3>
+<h3>@Model.Pelicula.Genero</h3>
+
+<hr />
+<br />
+
+<h2>Actor Estelar</h2>
+<h3>@Model.Actor.Id</h3>
+<h3>@Model.Actor.Nombre</h3>
+<h3>@Model.Actor.Edad</h3>

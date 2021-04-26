@@ -1,0 +1,57 @@
+﻿@model ProductModel
+@{
+    ViewBag.Title = "Create";
+}
+
+@*<h2>Create Product</h2>*@
+
+<div class="row">
+    <div class="col-md-10">
+        <h2>@Constants.New @Constants.Product</h2>
+    </div>
+    <br />
+    <div class="col-md-2">
+        <h2>@Html.ActionLink(Constants.Return, "Index", null, new { @class = "btn btn-info" })</h2>
+    </div>
+</div>
+
+<hr />
+<br />
+
+
+<div class="row">
+    <div class="col-md-12">
+        @using(Html.BeginForm("Create", "Product")){
+        <div class="form-horizontal">
+            <div class="form-group">
+                @Html.LabelFor(model=>model.ProductName, new {@class="control label col-md-2"})
+                <div class="col-md-10">
+                    @Html.TextBoxFor(m=>m.ProductName, new {@class="form-control"})
+                    @Html.ValidationMessageFor(m=>m.ProductName, "", new {@class="text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model=>model.UnitPrice, new {@class="control label col-md-2"})
+                <div class="col-md-10">
+                    @Html.TextBoxFor(m=>m.UnitPrice, new {@class="form-control"})
+                    @Html.ValidationMessageFor(m=>m.UnitPrice, "", new {@class="text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model=>model.QuantityPerUnit+, new {@class="control label col-md-2"})
+                <div class="col-md-10">
+                    @Html.TextBoxFor(m=>m.QuantityPerUnit, new {@class="form-control"})
+                    @Html.ValidationMessageFor(m=>m.QuantityPerUnit, "", new {@class="text-danger" })
+                </div>
+            </div>
+            
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <a href="@Url.Action("Index")" class="btn btn-default">@Constants.Cancel</a>
+                    <button type="submit"class="btn btn-success">@Constants.Save</button>
+                </div>
+            </div>
+        </div>
+        }
+    </div>
+</div>

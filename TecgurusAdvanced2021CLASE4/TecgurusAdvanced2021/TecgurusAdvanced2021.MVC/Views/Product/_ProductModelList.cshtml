@@ -1,0 +1,114 @@
+﻿@model ProductViewModel
+@{
+    var OnePageLess = Model.CurrentPage - 1;
+    var OnePageMore = Model.CurrentPage + 1;
+}
+
+<table class="table table-bordered table-striped table-condensed table-hover">
+    <thead>
+        <tr>
+
+            <th>
+                @Constants.ProductName
+            </th>
+            <th>
+                @Constants.UnitPrice
+            </th>
+            <th>
+                @Constants.Category
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model.Data)
+        {
+            <tr>
+
+                <td>
+                    @product.ProductName
+                </td>
+                <td>
+                    @product.UnitPrice
+                </td>
+                <td>
+                    @product.CategoryName
+                </td>
+                @*<td>
+                            Esto es un acceso mediante Lazy Loading
+                        @product.Category.CategoryName
+                    </td>*@
+            </tr>
+        }
+    </tbody>
+
+    <tfoot>
+    </tfoot>
+
+</table>
+
+@if (Model.TotalData > 0)
+{
+    <span>
+        <strong>@Model.TotalData</strong> @Constants.RecordsFound
+    </span>
+    <span>&nbsp;| &nbsp;</span>
+}
+else
+{
+    <span>
+        @Constants.NoResults
+    </span>
+    <span>&nbsp;| &nbsp;</span>
+}
+
+@if (Model.CurrentPage > 1)
+{
+    <a class="btn btn-sm btn-default" href="#" onclick="ChangedPage(1)"><<</a>
+    <a class="btn btn-sm btn-default" href="#" onclick="ChangedPage(@OnePageLess)">@Constants.Previous</a>
+}
+
+else
+{
+    <a class="btn btn-sm btn-default disabled" href="#" onclick="ChangedPage(1)"><<</a>
+    <a class="btn btn-sm btn-default disabled" href="#" onclick="ChangedPage(@OnePageLess)">@Constants.Previous</a>
+}
+
+@if (Model.CurrentPage < Model.NumberOfPage)
+{
+
+    <a class="btn btn-sm btn-default" href="#" onclick="ChangedPage(@OnePageMore)">@Constants.Next</a>
+    <a class="btn btn-sm btn-default" href="#" onclick="ChangedPage(@Model.NumberOfPage)">>></a>
+}
+
+else
+{
+    <a class="btn btn-sm btn-default disabled" href="#" onclick="ChangedPage(@OnePageMore)">@Constants.Next</a>
+    <a class="btn btn-sm btn-default disabled" href="#" onclick="ChangedPage(1)">>></a>
+}
+
+@if (Model.TotalData > 0)
+{
+    <span>&nbsp;| &nbsp;</span>
+    <span>
+        Pagina <strong>@Model.CurrentPage</strong> de <strong>@Model.NumberOfPage</strong>
+    </span>
+
+}
+
+
+<script>
+    function ChangedPage(numberPage) {
+        $.ajax({
+            url: '@Url.Action("ajax_ChangePage")',
+            type: 'POST',
+            data: {
+                "page": numberPage,
+                "productNameSearch": $('#txtProductName').val()
+            },
+
+            success: function (data) {
+                $("#gridContainer").html(data);
+            }
+        });
+    }
+</script>
