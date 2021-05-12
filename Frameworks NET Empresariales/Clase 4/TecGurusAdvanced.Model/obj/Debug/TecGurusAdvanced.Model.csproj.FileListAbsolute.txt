@@ -1,0 +1,30 @@
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecGurusAdvanced.Model\bin\Debug\TecGurusAdvanced.Model.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecGurusAdvanced.Model\bin\Debug\TecGurusAdvanced.Model.pdb
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecGurusAdvanced.Model\obj\Debug\TecGurusAdvanced.Model.csprojAssemblyReference.cache
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecGurusAdvanced.Model\obj\Debug\TecGurusAdvanced.Model.csproj.CoreCompileInputs.cache
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecGurusAdvanced.Model\obj\Debug\TecGurusAdvanced.Model.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecGurusAdvanced.Model\obj\Debug\TecGurusAdvanced.Model.pdb
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecGurusAdvanced.Model\bin\Debug\TecGurusAdvanced.Localization.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecGurusAdvanced.Model\bin\Debug\TecGurusAdvanced.Localization.pdb
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecGurusAdvanced.Model\bin\Debug\en\TecGurusAdvanced.Localization.resources.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecGurusAdvanced.Model\obj\Debug\TecGurusAdvanced.Model.csproj.CopyComplete
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecGurusAdvanced.Model\bin\Debug\TecGurusAdvanced.Model.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecGurusAdvanced.Model\bin\Debug\TecGurusAdvanced.Model.pdb
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecGurusAdvanced.Model\bin\Debug\TecGurusAdvanced.Localization.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecGurusAdvanced.Model\bin\Debug\TecGurusAdvanced.Localization.pdb
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecGurusAdvanced.Model\bin\Debug\en\TecGurusAdvanced.Localization.resources.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecGurusAdvanced.Model\obj\Debug\TecGurusAdvanced.Model.csprojAssemblyReference.cache
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecGurusAdvanced.Model\obj\Debug\TecGurusAdvanced.Model.csproj.CoreCompileInputs.cache
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecGurusAdvanced.Model\obj\Debug\TecGurusAdvanced.Model.csproj.CopyComplete
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecGurusAdvanced.Model\obj\Debug\TecGurusAdvanced.Model.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecGurusAdvanced.Model\obj\Debug\TecGurusAdvanced.Model.pdb
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecGurusAdvanced.Model\bin\Debug\TecGurusAdvanced.Model.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecGurusAdvanced.Model\bin\Debug\TecGurusAdvanced.Model.pdb
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecGurusAdvanced.Model\bin\Debug\TecGurusAdvanced.Localization.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecGurusAdvanced.Model\bin\Debug\TecGurusAdvanced.Localization.pdb
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecGurusAdvanced.Model\bin\Debug\en\TecGurusAdvanced.Localization.resources.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecGurusAdvanced.Model\obj\Debug\TecGurusAdvanced.Model.csprojAssemblyReference.cache
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecGurusAdvanced.Model\obj\Debug\TecGurusAdvanced.Model.csproj.CoreCompileInputs.cache
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecGurusAdvanced.Model\obj\Debug\TecGurusAdvanced.Model.csproj.CopyComplete
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecGurusAdvanced.Model\obj\Debug\TecGurusAdvanced.Model.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecGurusAdvanced.Model\obj\Debug\TecGurusAdvanced.Model.pdb

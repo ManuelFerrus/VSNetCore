@@ -1,0 +1,14 @@
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\TecGurusWebAPIService2021\TecGurusAdvanced.Entities\bin\Debug\TecGurusAdvanced.Entities.dll.config
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\TecGurusWebAPIService2021\TecGurusAdvanced.Entities\bin\Debug\TecGurusAdvanced.Entities.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\TecGurusWebAPIService2021\TecGurusAdvanced.Entities\bin\Debug\TecGurusAdvanced.Entities.pdb
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\TecGurusWebAPIService2021\TecGurusAdvanced.Entities\bin\Debug\EntityFramework.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\TecGurusWebAPIService2021\TecGurusAdvanced.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\TecGurusWebAPIService2021\TecGurusAdvanced.Entities\bin\Debug\EntityFramework.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\TecGurusWebAPIService2021\TecGurusAdvanced.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\TecGurusWebAPIService2021\TecGurusAdvanced.Entities\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\TecGurusWebAPIService2021\TecGurusAdvanced.Entities\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\TecGurusWebAPIService2021\TecGurusAdvanced.Entities\obj\Debug\TecGurusAdvanced.Entities.csprojAssemblyReference.cache
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\TecGurusWebAPIService2021\TecGurusAdvanced.Entities\obj\Debug\TecGurusAdvanced.Entities.csproj.CoreCompileInputs.cache
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\TecGurusWebAPIService2021\TecGurusAdvanced.Entities\obj\Debug\TecGurusAdvanced.Entities.csproj.CopyComplete
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\TecGurusWebAPIService2021\TecGurusAdvanced.Entities\obj\Debug\TecGurusAdvanced.Entities.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\TecGurusWebAPIService2021\TecGurusAdvanced.Entities\obj\Debug\TecGurusAdvanced.Entities.pdb

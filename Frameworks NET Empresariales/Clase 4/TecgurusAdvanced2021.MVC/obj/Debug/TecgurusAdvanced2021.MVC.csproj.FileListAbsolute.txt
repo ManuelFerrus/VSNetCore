@@ -1,0 +1,377 @@
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecgurusAdvanced2021.MVC.dll.config
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecgurusAdvanced2021.MVC.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecgurusAdvanced2021.MVC.pdb
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\csc.exe
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\csc.exe.config
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\csc.rsp
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\csi.exe
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\csi.exe.config
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\csi.rsp
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Console.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Net.Http.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\vbc.exe
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\vbc.exe.config
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\vbc.rsp
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Antlr3.Runtime.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\EntityFramework.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Newtonsoft.Json.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Owin.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.Helpers.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.Mvc.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.Optimization.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.Razor.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.WebPages.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Entities.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Factory.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Localization.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Model.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\WebGrease.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Services.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Entities.pdb
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Entities.dll.config
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Factory.pdb
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Factory.dll.config
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Localization.pdb
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Model.pdb
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.Helpers.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.Mvc.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.Optimization.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.Razor.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.WebPages.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Newtonsoft.Json.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\EntityFramework.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Services.pdb
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Services.dll.config
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\en\TecGurusAdvanced.Localization.resources.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.csprojAssemblyReference.cache
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.Migrations.Initial.resources
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.csproj.GenerateResource.cache
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.csproj.CoreCompileInputs.cache
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.csproj.CopyComplete
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.dll
+C:\Users\RubEm\Source\Repos\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.pdb
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecgurusAdvanced2021.MVC.dll.config
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecgurusAdvanced2021.MVC.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecgurusAdvanced2021.MVC.pdb
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\csc.exe
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\csc.exe.config
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\csc.rsp
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\csi.exe
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\csi.exe.config
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\csi.rsp
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Console.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Net.Http.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\vbc.exe
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\vbc.exe.config
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\vbc.rsp
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Antlr3.Runtime.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\EntityFramework.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Newtonsoft.Json.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Owin.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.Helpers.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.Mvc.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.Optimization.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.Razor.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.WebPages.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Entities.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Factory.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Localization.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Model.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\WebGrease.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Services.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Entities.pdb
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Entities.dll.config
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Factory.pdb
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Factory.dll.config
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Localization.pdb
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Model.pdb
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.Helpers.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.Mvc.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.Optimization.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.Razor.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.WebPages.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Newtonsoft.Json.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\EntityFramework.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Services.pdb
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Services.dll.config
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\bin\en\TecGurusAdvanced.Localization.resources.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.csprojAssemblyReference.cache
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.Migrations.Initial.resources
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.csproj.GenerateResource.cache
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.csproj.CoreCompileInputs.cache
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.csproj.CopyComplete
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.dll
+C:\Users\manue\Downloads\TecgurusAdvanced2021CLASE4\TecgurusAdvanced2021\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.pdb
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\TecgurusAdvanced2021.MVC.dll.config
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\TecgurusAdvanced2021.MVC.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\TecgurusAdvanced2021.MVC.pdb
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\csc.exe
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\csc.exe.config
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\csc.rsp
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\csi.exe
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\csi.exe.config
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\csi.rsp
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.Console.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.Net.Http.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\vbc.exe
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\vbc.exe.config
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\vbc.rsp
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Antlr3.Runtime.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\AutoMapper.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\EntityFramework.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Newtonsoft.Json.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Owin.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\System.ValueTuple.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\System.Web.Helpers.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\System.Web.Mvc.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\System.Web.Optimization.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\System.Web.Razor.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\System.Web.WebPages.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Entities.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Factory.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Localization.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Model.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Services.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\WebGrease.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Entities.pdb
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Entities.dll.config
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Factory.pdb
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Factory.dll.config
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Localization.pdb
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Model.pdb
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Services.pdb
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\TecGurusAdvanced.Services.dll.config
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\AutoMapper.pdb
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\AutoMapper.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\System.ValueTuple.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\System.Web.Helpers.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\System.Web.Mvc.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\System.Web.Optimization.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\System.Web.Razor.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\System.Web.WebPages.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Newtonsoft.Json.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\EntityFramework.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\bin\en\TecGurusAdvanced.Localization.resources.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.csprojAssemblyReference.cache
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.Migrations.Initial.resources
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.csproj.GenerateResource.cache
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.csproj.CoreCompileInputs.cache
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.csproj.CopyComplete
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.dll
+C:\Users\manue\Documents\Estudios\VSNetCore\Frameworks NET Empresariales\Clase 4\TecgurusAdvanced2021.MVC\obj\Debug\TecgurusAdvanced2021.MVC.pdb
